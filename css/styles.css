@@ -11419,7 +11419,7 @@ header.masthead {
   background-size: cover;
 }
 header.masthead .masthead-subheading {
-  color:#FDFF00;
+  color: #270082;
   font-size: 1.5rem;
   font-style: italic;
   line-height: 1.5rem;
@@ -11446,7 +11446,7 @@ header.masthead .masthead-heading {
     margin-bottom: 2rem;
   }
   header.masthead .masthead-heading {
-    color: #C7FFD8;
+    color: #ffc800;
     font-size: 4.5rem;
     font-weight: 700;
     line-height: 4.5rem;
@@ -11458,10 +11458,10 @@ header.masthead .masthead-heading {
   margin-left: auto;
   margin-right: auto;
 }
-#portfolio .portfolio-item .portfolio-link {
+ #portfolio .portfolio-item .portfolio-link {
   position: relative;
   display: block;
-  margin: 0 auto;
+  margin: 0 auto; 
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   display: flex;
